@@ -1,0 +1,10 @@
+1.) Core Language
+2.) Problem Solving
+3.) Working with databases
+4.) Designing GUI Interfaces
+5.) Algorithms
+6.) Django
+7.) Data Analysis
+8.) Scikit-learn
+9.) Tensorflow
+10.) Your Requests
